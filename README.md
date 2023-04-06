@@ -31,9 +31,3 @@ To run a script in the package.json file,
 Use the ‘npm run’ command in your terminal followed by the script name. 
 For example, if you have a script named “My File” in your package.json file, you can run it by typing ‘npm run My File’ in your terminal. This will execute the command associated with the ‘My File’ script, which could be something like node app.js.
 
-
-7: Initialize a package if your choice, give it a name and install the following npm packages to it, express, mongoose, joi.
-
-NB: Create a github repo and submit your answers in the readMe of this repo, 
-
-Also, add your initialized npm package to this repo, then submit a link to the repo as your submission
